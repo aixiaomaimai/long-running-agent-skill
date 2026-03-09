@@ -31,3 +31,20 @@ bash install.sh
 
 # 3. 验证
 bash test.sh
+📋 系统要求
+
+OpenClaw >= 2026.3.0
+Python >= 3.6
+Bash >= 4.0
+可选：self-improvement >= 1.0（自动学习）
+🔗 链接
+
+GitHub Release
+OpenClaw 文档
+📄 许可证
+
+MIT License
+👥 作者
+
+Jay + 小麦
+最后更新：2026-03-09
